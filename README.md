@@ -11,3 +11,5 @@
 
 ## [3.- Módulo3: Operaciones Básicas](MODULOS/modulo3.md)
 
+![licencia](https://user-images.githubusercontent.com/115450529/220744958-826e83c6-b8fd-48f0-bcb2-3846fd712ebe.png)
+
