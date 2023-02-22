@@ -1,1 +1,0 @@
-Hugo Lucena Gutiérrez
